@@ -36,3 +36,6 @@ const clearInputs = () => {
     secondValue.value = ''
     result.value = ''
 }
+
+const calculator12 = document.querySelector('.calculator');
+const modalName = document.querySelector('.modalName');
