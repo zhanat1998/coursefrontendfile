@@ -36,6 +36,16 @@ const clearInputs = () => {
     secondValue.value = ''
     result.value = ''
 }
-
 const calculator12 = document.querySelector('.calculator');
+const root = document.querySelector('.root');
 const modalName = document.querySelector('.modalName');
+console.log('calculator', calculator12)
+calculator12.addEventListener('click', () => {
+    root.style.display = 'block'
+    calculator12.style.display = 'none'
+})
+modalName.addEventListener('click', () => {
+    root.style.display = 'none'
+    calculator12.style.display = 'block'
+
+})
