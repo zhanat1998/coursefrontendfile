@@ -1,0 +1,11 @@
+{
+    "posts": [
+        {
+            "id": "1",
+            "nazvaniye": "kniga",
+            "opisaniye": "to read",
+            "price": "300$",
+            "img": "https://24.kg/files/media/79/79159.jpg"
+        }
+    ]
+}
