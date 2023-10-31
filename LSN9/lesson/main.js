@@ -1,22 +1,3 @@
-// class Todo {
-//     #dataArr = [];
-//     getData() {
-//         console.log(this.#dataArr);
-
-//     }
-//     setData(data) {
-
-//     };
-//     deletData(id);
-//     editData(data);
-// }
-
-// const myTodd = new Todo();
-// myTodd.setData();
-
-// myTodd.getData();
-
-
 // todo создание класса
 
 class Person {
